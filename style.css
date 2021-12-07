@@ -1,0 +1,20 @@
+#main{
+    background-color: cadetblue;
+}
+.cell{
+  background-color: #e192e4;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  font-size: 100px;
+  color: black;
+  text-align: center;
+  line-height: 200px;
+}
+#main{
+  min-height: 100%;
+  min-height: 100vh;
+ 
+  display: flex;
+  align-items: center;
+}
